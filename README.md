@@ -1,6 +1,6 @@
 This is a image viewer completely made using SDL3 library
-all the essential file needed to build the executable is provide in two seperated files 
-one for windows and another for linux. binaries are also given so you can download
+all the essential file needed to build the executable are provided.
+binaries are also given so you can download
 and execute without building 
 note!:
 during the execution it opens file manager to select the image
